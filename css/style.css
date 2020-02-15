@@ -993,6 +993,9 @@ body.offcanvas .colorlib-nav-toggle {
 .progress-bar.color-1 {
   background: #2c98f0;
 }
+.progress-bar.color-6 {
+  background: #95af00;
+}
 .progress-bar.color-1:after {
   background: #2c98f0;
 }
